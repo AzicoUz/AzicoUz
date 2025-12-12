@@ -1,7 +1,7 @@
 # 👋 Hi, I'm AzicoUz
 
 Frontend developer and cybersecurity enthusiast 🚀  
-Men yangi narsalarni o‘rganishni va amaliyotga tadbiq etishni yaxshi ko‘raman. Har doim kod va UX tomonini takomillashtirish ustida ishlayman.
+I enjoy learning new things and applying them in real projects. Always focused on clean code, good UI, and practical problem-solving.
 
 ## 💻 Tech Stack
 - JavaScript (ES6+)
@@ -10,31 +10,32 @@ Men yangi narsalarni o‘rganishni va amaliyotga tadbiq etishni yaxshi ko‘rama
 - Frontend mini-projects
 
 ## 📂 Featured Projects
-- **Pokemon** → Explore Pokémon data with search, filter, and sorting  
-- **ClockTab** → A simple and clean clock tab  
-- **CRUD** → Basic CRUD functionality with JavaScript  
-- **Country_Cards** → Country information cards  
+- **Pokemon** → Explore Pokémon data with search, filtering, and sorting  
+- **ClockTab** → A clean and minimal clock tab  
+- **CRUD** → Basic CRUD functionality built with JavaScript  
+- **Country_Cards** → Display country information cards  
+- **Register** → A simple user registration form with validation logic  
 
 ## 📊 GitHub Stats
-<!-- Primary stats (mirror) -->
+<!-- Working mirror stats -->
 ![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AzicoUz&show_icons=true&theme=radical&count_private=true)
 
-<!-- Top languages (mirror) -->
+<!-- Working mirror top languages -->
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AzicoUz&layout=compact&theme=radical)
 
-<!-- Fallback simple badges (agar yuqoridagi kartalar yuklanmasa) -->
+<!-- Fallback badges in case cards fail -->
 [![Profile Views](https://komarev.com/ghpvc/?username=AzicoUz)](https://github.com/AzicoUz)
-[![Visitors](https://badges.pufler.dev/visits/AzicoUz/AzicoUz)](https://github.com/AzicoUz)
+[![Visits](https://badges.pufler.dev/visits/AzicoUz/AzicoUz)](https://github.com/AzicoUz)
 
-## 🔁 Muammo bo‘lsa — nima qilish kerak?
-1. **Mirror linkni ishlatdim**: yuqoridagi linklar asosiy `github-readme-stats.vercel.app` o‘rniga mirrorga yo‘naltirilgan. Ko‘pchilik uchun bu muammoni hal qiladi.  
-2. **Token bilan ishlash**: agar statistikalar tez-tez o‘chib-qo‘yayotgan bo‘lsa, GitHub Personal Access Token (read: `GITHUB_TOKEN` yoki PAT) dan GitHub Actions orqali foydalanish mumkin. Bu usul rate limit’ni ko‘taradi.  
-3. **30-60 daqiqa kuting**: ba’zan Vercel yoki API tomonida vaqtinchalik muammo bo‘ladi — mirror ham shunchaki vaqtincha yomon bo‘lishi mumkin.  
-4. **Agar kerak bo‘lsa**, men README’ni GitHub Actions workflow bilan to‘liq avtomatlashtirilgan shaklda tayyorlab bera olaman (secrets va token bilan qanday ishlashni ko‘rsataman).
+## 🔧 Stats Not Loading?
+1. GitHub API sometimes hits rate limits — that’s why I'm using a mirror version.  
+2. If it still doesn’t load, using a GitHub token through GitHub Actions can increase limits.  
+3. Sometimes the service is just temporarily down — waiting 20–60 minutes helps.  
+4. If you want, I can set up an automated workflow for flawless stats loading.
 
 ## 📬 Contact Me
-- Telegram: [@azicouz](https://t.me/azicouz)  
+- Telegram: [@azicouz](https://t.me/azicouz)
 
 ---
 
-⭐️ Agar loyihalarim yoqsa, ularni **star** bosishni unutmang — bu menga energiya beradi! ⚡
+⭐ If you enjoy my projects, feel free to **leave a star** — it really motivates me!

@@ -19,10 +19,10 @@ I love building clean UIs, mini–projects, and learning security concepts.
   <a href="https://t.me/azicouz">
     <img src="https://img.shields.io/badge/Telegram-091519?style=for-the-badge&logo=telegram&logoColor=61DAFB" />
   </a>
-  <a href="mailto:azicovv@gmail.com">
+  <a href="mailto:azicogamer@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-091519?style=for-the-badge&logo=gmail&logoColor=61DAFB" />
   </a>
-  <a href="https://instagram.com">
+  <a href="https://www.instagram.com/abdunabiev_azizbek">
     <img src="https://img.shields.io/badge/Instagram-091519?style=for-the-badge&logo=instagram&logoColor=61DAFB" />
   </a>
 </p>

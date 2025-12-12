@@ -68,11 +68,10 @@ I love building clean UIs, mini–projects, and learning security concepts.
 
 ### 📊 GitHub Statistics
 
-<img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AzicoUz&show_icons=true&title_color=61DAFB&icon_color=61DAFB&text_color=C8E1FF&bg_color=0D1117&border_color=3a8296&hide_border=false" height="170em"/>
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AzicoUz&show_icons=true&theme=radical&title_color=61DAFB&icon_color=61DAFB&text_color=C8E1FF&bg_color=0,091519,000000&border_color=3a8296&hide_border=false" height="170em"/>
+<img src="https://streak-stats.demolab.com?user=AzicoUz&theme=dark&background=0D1117&currStreakLabel=61DAFB&ring=3a8296&fire=61DAFB&sideLabels=61DAFB&border_radius=4" height="170em"/>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AzicoUz" alt="GitHub Streak" /></a>
 
 ---
 

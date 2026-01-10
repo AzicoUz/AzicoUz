@@ -1,13 +1,15 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=170&text=AzicoUz&fontSize=55&fontColor=61DAFB&fontAlignY=45&animation=twinkling&section=header" />
 
-<h2 align="center">Frontend Developer ⚡ | Cybersecurity Enthusiast 🔐</h2>
+<h2 align="center">Frontend Developer | Cybersecurity Enthusiast</h2>
 
 <p align="center">
-I build modern, clean and scalable user interfaces.<br/>
-Focused on performance, UI/UX harmony and real-world projects.
+I design and build modern, scalable, and user-focused web interfaces.<br/>
+Passionate about performance optimization, clean architecture, and UI/UX harmony.
 </p>
 
-<p align="center"><i>“Turning ideas into clean code that actually works.”</i></p>
+<p align="center">
+<i>Transforming ideas into reliable, efficient, and maintainable code.</i>
+</p>
 
 ---
 
@@ -17,12 +19,18 @@ Focused on performance, UI/UX harmony and real-world projects.
 
 ---
 
-## 📬 Connect With Me
+## 📬 Contact & Socials
 
 <p align="center">
-  <a href="https://t.me/azicouz"><img src="https://img.shields.io/badge/Telegram-091519?style=for-the-badge&logo=telegram&logoColor=61DAFB" /></a>
-  <a href="mailto:azicovv@gmail.com"><img src="https://img.shields.io/badge/Gmail-091519?style=for-the-badge&logo=gmail&logoColor=61DAFB" /></a>
-  <a href="https://instagram.com"><img src="https://img.shields.io/badge/Instagram-091519?style=for-the-badge&logo=instagram&logoColor=61DAFB" /></a>
+  <a href="https://t.me/azicouz">
+    <img src="https://img.shields.io/badge/Telegram-091519?style=for-the-badge&logo=telegram&logoColor=61DAFB" />
+  </a>
+  <a href="mailto:azicovv@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-091519?style=for-the-badge&logo=gmail&logoColor=61DAFB" />
+  </a>
+  <a href="https://instagram.com">
+    <img src="https://img.shields.io/badge/Instagram-091519?style=for-the-badge&logo=instagram&logoColor=61DAFB" />
+  </a>
 </p>
 
 <p align="center">
@@ -32,7 +40,7 @@ Focused on performance, UI/UX harmony and real-world projects.
 
 ---
 
-## 🧠 Tech Stack
+## 🧠 Technical Skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,scss,git,github" />
@@ -40,7 +48,7 @@ Focused on performance, UI/UX harmony and real-world projects.
 
 ---
 
-## ⚙️ Tools & Environment
+## ⚙️ Tools & Development Environment
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,figma,linux,chrome" />
@@ -48,13 +56,13 @@ Focused on performance, UI/UX harmony and real-world projects.
 
 ---
 
-## 📂 Featured Projects
+## 📂 Selected Projects
 
-* 🚀 **Pokemon App** – Search, filter & fetch Pokémon data
-* ⏰ **ClockTab** – Minimal dashboard with live clock
-* 🧩 **CRUD App** – Create, read, update & delete system
-* 🌍 **Country Cards** – REST Countries API based app
-* 🔐 **Register Form** – Validation & UI focused auth form
+- **Pokemon App** – Pokémon data search, filtering, and API integration  
+- **ClockTab** – Minimalist dashboard with real-time clock  
+- **CRUD Application** – Complete create, read, update, and delete system  
+- **Country Cards** – REST Countries API-based informational app  
+- **Authentication Form** – UI-focused registration form with validation  
 
 ---
 
@@ -74,13 +82,13 @@ Focused on performance, UI/UX harmony and real-world projects.
 
 ---
 
-## 🏆 Contribution Overview
+## 🏆 Contribution Summary
 
 <img src="https://github-contributor-stats.vercel.app/api?username=AzicoUz&limit=5&theme=radical&combine_all_yearly_contributions=true&title_color=61DAFB&text_color=C8E1FF&bg_color=000000" />
 
 ---
 
-## ✍️ Random Dev Quote
+## ✍️ Developer Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=0:3a8296,100:000000&text_color=61DAFB" />
@@ -88,4 +96,4 @@ Focused on performance, UI/UX harmony and real-world projects.
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=110&section=footer&text=Thanks%20for%20visiting%20👋&fontSize=26&fontColor=61DAFB&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=110&section=footer&text=Thank%20you%20for%20visiting&fontSize=26&fontColor=61DAFB&animation=twinkling" />

@@ -3,12 +3,12 @@
 <h2 align="center">Frontend Developer | Cybersecurity Enthusiast</h2>
 
 <p align="center">
-I design and build modern, scalable, and user-focused web interfaces.<br/>
-Passionate about performance optimization, clean architecture, and UI/UX harmony.
+Frontend developer specializing in building modern, maintainable, and scalable web interfaces.<br/>
+Focused on performance optimization, clean code practices, and consistent user experience.
 </p>
 
 <p align="center">
-<i>Transforming ideas into reliable, efficient, and maintainable code.</i>
+<i>Developing reliable solutions through structured and efficient code.</i>
 </p>
 
 ---
@@ -19,7 +19,7 @@ Passionate about performance optimization, clean architecture, and UI/UX harmony
 
 ---
 
-## 📬 Contact & Socials
+## Contact Information
 
 <p align="center">
   <a href="https://t.me/azicouz">
@@ -40,7 +40,7 @@ Passionate about performance optimization, clean architecture, and UI/UX harmony
 
 ---
 
-## 🧠 Technical Skills
+## Technical Skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,scss,git,github" />
@@ -48,7 +48,7 @@ Passionate about performance optimization, clean architecture, and UI/UX harmony
 
 ---
 
-## ⚙️ Tools & Development Environment
+## Tools and Development Environment
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,figma,linux,chrome" />
@@ -56,17 +56,17 @@ Passionate about performance optimization, clean architecture, and UI/UX harmony
 
 ---
 
-## 📂 Selected Projects
+## Selected Projects
 
-- **Pokemon App** – Pokémon data search, filtering, and API integration  
-- **ClockTab** – Minimalist dashboard with real-time clock  
-- **CRUD Application** – Complete create, read, update, and delete system  
-- **Country Cards** – REST Countries API-based informational app  
-- **Authentication Form** – UI-focused registration form with validation  
+- **Pokemon Application** – Data fetching, filtering, and API integration  
+- **ClockTab** – Minimal dashboard with real-time clock functionality  
+- **CRUD Application** – Create, read, update, and delete operations  
+- **Country Cards** – REST Countries API-based informational application  
+- **Registration Form** – User input validation and interface-focused design  
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <img align="right" width="38%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png" />
 
@@ -76,19 +76,19 @@ Passionate about performance optimization, clean architecture, and UI/UX harmony
 
 ---
 
-## 🧩 Most Used Languages
+## Most Used Languages
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzicoUz&layout=compact&langs_count=8&theme=radical&title_color=61DAFB&text_color=C8E1FF&bg_color=000000" height="170em" />
 
 ---
 
-## 🏆 Contribution Summary
+## Contribution Overview
 
 <img src="https://github-contributor-stats.vercel.app/api?username=AzicoUz&limit=5&theme=radical&combine_all_yearly_contributions=true&title_color=61DAFB&text_color=C8E1FF&bg_color=000000" />
 
 ---
 
-## ✍️ Developer Quote
+## Professional Statement
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=0:3a8296,100:000000&text_color=61DAFB" />
@@ -96,4 +96,4 @@ Passionate about performance optimization, clean architecture, and UI/UX harmony
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=110&section=footer&text=Thank%20you%20for%20visiting&fontSize=26&fontColor=61DAFB&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=110&section=footer&text=Thank%20you%20for%20your%20time&fontSize=26&fontColor=61DAFB&animation=twinkling" />

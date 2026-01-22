@@ -43,7 +43,7 @@ Focused on performance optimization, clean code practices, and consistent user e
 ## Technical Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,scss,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,scss,tailwind,git,github" />
 </p>
 
 ---

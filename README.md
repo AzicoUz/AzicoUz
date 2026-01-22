@@ -25,7 +25,7 @@ Focused on performance optimization, clean code practices, and consistent user e
   <a href="https://t.me/azicouz">
     <img src="https://img.shields.io/badge/Telegram-091519?style=for-the-badge&logo=telegram&logoColor=61DAFB" />
   </a>
-  <a href="mailto:azicovv@gmail.com">
+  <a href="mailto:abdulnabiyev.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-091519?style=for-the-badge&logo=gmail&logoColor=61DAFB" />
   </a>
   <a href="https://instagram.com">

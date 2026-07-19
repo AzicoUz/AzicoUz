@@ -28,13 +28,16 @@ Men zamonaviy, saqlanishi oson va kengaytiriladigan veb-interfeyslar yaratishga 
 ### 📫 Bog'lanish
 
 <p align="center">
+  <a href="https://github.com/AzicoUz">
+    <img src="https://img.shields.io/badge/GitHub-091519?style=for-the-badge&logo=github&logoColor=61DAFB" />
+  </a>
   <a href="https://t.me/azicouz">
     <img src="https://img.shields.io/badge/Telegram-091519?style=for-the-badge&logo=telegram&logoColor=61DAFB" />
   </a>
   <a href="https://mail.google.com/mail/?view=cm&to=abdulnabiyev.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-091519?style=for-the-badge&logo=gmail&logoColor=61DAFB" />
   </a>
-  <a href="https://instagram.com">
+  <a href="https://instagram.com/azicouz">
     <img src="https://img.shields.io/badge/Instagram-091519?style=for-the-badge&logo=instagram&logoColor=61DAFB" />
   </a>
 </p>
@@ -65,27 +68,27 @@ Men zamonaviy, saqlanishi oson va kengaytiriladigan veb-interfeyslar yaratishga 
 <table align="center">
   <tr>
     <td width="50%">
-      <strong>🎴 Pokemon Application</strong><br/>
+      <strong><a href="https://github.com/AzicoUz?tab=repositories">🎴 Pokemon Application</a></strong><br/>
       Ma'lumotlarni olish, filtrlash va API integratsiyasi
     </td>
     <td width="50%">
-      <strong>⏰ ClockTab</strong><br/>
+      <strong><a href="https://github.com/AzicoUz?tab=repositories">⏰ ClockTab</a></strong><br/>
       Real vaqt rejimidagi soat funksiyasiga ega minimal dashboard
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <strong>🔄 CRUD Application</strong><br/>
+      <strong><a href="https://github.com/AzicoUz?tab=repositories">🔄 CRUD Application</a></strong><br/>
       Create, Read, Update, Delete amallarini bajaruvchi ilova
     </td>
     <td width="50%">
-      <strong>🌍 Country Cards</strong><br/>
+      <strong><a href="https://github.com/AzicoUz?tab=repositories">🌍 Country Cards</a></strong><br/>
       REST Countries API asosidagi ma'lumot beruvchi ilova
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <strong>📝 Registration Form</strong><br/>
+      <strong><a href="https://github.com/AzicoUz?tab=repositories">📝 Registration Form</a></strong><br/>
       Foydalanuvchi ma'lumotlarini validatsiya qiluvchi interfeys
     </td>
   </tr>
@@ -106,6 +109,14 @@ Men zamonaviy, saqlanishi oson va kengaytiriladigan veb-interfeyslar yaratishga 
 
 ---
 
+### 🏆 Yutuqlar
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AzicoUz&theme=radical&no-frame=true&row=1&column=6&margin-w=8" />
+</div>
+
+---
+
 ### 📈 Hissa qo'shish tarixi
 
 <div align="center">
@@ -113,7 +124,7 @@ Men zamonaviy, saqlanishi oson va kengaytiriladigan veb-interfeyslar yaratishga 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AzicoUz&theme=redical&bg_color=000000&color=61DAFB&line=3a8296&point=C8E1FF" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AzicoUz&theme=react-dark&bg_color=000000&color=61DAFB&line=3a8296&point=C8E1FF" />
 </div>
 
 ---
